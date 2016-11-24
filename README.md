@@ -34,7 +34,7 @@ npm run buildtest
 
 ### Contact
 * Twitter: [@a_mattias](https://twitter.com/a_mattias).
-* Email: mattias.t.andersson@gmail.com
+* Email: firstname.t.lastname@gmail.com
 * Home page: [https://www.amattias.se](https://www.amattias.se)
 
 // Mattias Andersson
