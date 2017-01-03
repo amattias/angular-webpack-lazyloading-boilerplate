@@ -2,6 +2,9 @@
   "name": "angular2-webpack-lazyloading-boilerplate",
   "version": "1.0.0",
   "description": "This repo is a boilerplate for using angular2 with webpack and lazyloading angular-router sub modules in chunks.",
+  "keywords": ["angular2", "webpack", "lazy loading", "HMR", "boilerplate"],
+  "author": "Mattias Andersson",
+  "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --port 8080",
     "build": "rimraf dist && webpack --config config/webpack.prod.js --progress --profile --bail",
