@@ -16,7 +16,7 @@ This repo is a boilerplate for using angular2 with webpack and lazyloading `angu
 ### Installation
 ```
 # Clone this repo
-git clone https://github.com/amattias/angular2-webpack-lazyloading-boilerplate.git
+git clone https://github.com/amattias/angular-webpack-lazyloading-boilerplate.git
 
 # Open folder
 
