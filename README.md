@@ -9,6 +9,10 @@ This repo is a boilerplate for using angular2 with webpack and lazyloading `angu
 * Lazy loading route modules with `angular2-router-loader`
 * Build for production. Chunks for lazy loading in production.
 
+## Prerequisits
+* node.js
+* npm 
+
 ### Installation
 ```
 # Clone this repo

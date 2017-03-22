@@ -2,7 +2,13 @@
   "name": "angular2-webpack-lazyloading-boilerplate",
   "version": "1.0.0",
   "description": "This repo is a boilerplate for using angular2 with webpack and lazyloading angular-router sub modules in chunks.",
-  "keywords": ["angular2", "webpack", "lazy loading", "HMR", "boilerplate"],
+  "keywords": [
+    "angular2",
+    "webpack",
+    "lazy loading",
+    "HMR",
+    "boilerplate"
+  ],
   "author": "Mattias Andersson",
   "license": "MIT",
   "scripts": {
@@ -35,7 +41,7 @@
     "@types/node": "^6.0.45",
     "angular2-router-loader": "^0.3.4",
     "angular2-template-loader": "^0.4.0",
-    "awesome-typescript-loader": "^2.2.4",
+    "awesome-typescript-loader": "^3.0.0-beta.18",
     "css-loader": "^0.23.1",
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.8.5",
@@ -47,7 +53,7 @@
     "raw-loader": "^0.5.1",
     "rimraf": "^2.5.2",
     "style-loader": "^0.13.1",
-    "typescript": "^2.0.3",
+    "typescript": "^2.0.10",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1",
     "webpack-merge": "^0.14.0"
