@@ -9,6 +9,10 @@ This repo is a boilerplate for using angular2 with webpack and lazyloading `angu
 * Lazy loading route modules with `angular2-router-loader`
 * Build for production. Chunks for lazy loading in production.
 
+### Changelog
+* 22 March 2017: Upgrade to angular 2.4
+* 24 November 2016: Initial commit, Angular 2.2
+
 ## Prerequisits
 * node.js
 * npm 
@@ -34,13 +38,8 @@ npm run build
 npm run buildtest
 # go to http://localhost:8081
 ```
-### Changelog
-* 22 March 2017: Upgrade to angular 2.4
-* 24 November 2016: Initial commit, Angular 2.2
 
 ### Contact
 * Twitter: [@a_mattias](https://twitter.com/a_mattias).
 * Email: firstname.t.lastname@gmail.com
 * Home page: [https://www.amattias.se](https://www.amattias.se)
-
-// Mattias Andersson
