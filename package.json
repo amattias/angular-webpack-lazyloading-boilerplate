@@ -1,5 +1,5 @@
 {
-  "name": "angular2-webpack-lazyloading-boilerplate",
+  "name": "angular-webpack-lazyloading-boilerplate",
   "version": "1.1.0",
   "description": "This repo is a boilerplate for using angular2 with webpack and lazyloading angular-router sub modules in chunks.",
   "keywords": [
