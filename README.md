@@ -10,6 +10,7 @@ This repo is a boilerplate for using angular2 with webpack and lazyloading `angu
 * Build for production. Chunks for lazy loading in production.
 
 ## Changelog
+* 24 March 2017: Upgrade to angular 4
 * 22 March 2017: Upgrade to angular 2.4
 * 24 November 2016: Initial commit, Angular 2.2
 
