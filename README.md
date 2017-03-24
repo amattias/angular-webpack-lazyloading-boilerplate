@@ -1,8 +1,8 @@
 # angular-webpack-lazyloading-boilerplate
-This repo is a boilerplate for using angular2 with webpack and lazyloading `angular-router` sub modules in chunks and live reloading.
+This repo is a boilerplate for using angular with webpack and lazyloading `angular-router` sub modules in chunks and live reloading.
 
 ## Features:
-* Angular2
+* Angular
 * Webpack
 * Typescript
 * Routing
