@@ -34,7 +34,7 @@ npm run dev
 # Build for production
 npm run build
 
-# Test your production build, requires http-server (npm install http-server -g)
+# Test your production build, uses http-server which is incleded as a dev-dependency
 npm run buildtest
 # go to http://localhost:8081
 ```
