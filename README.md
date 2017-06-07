@@ -1,15 +1,17 @@
 # angular-webpack-lazyloading-boilerplate
-This repo is a boilerplate for using angular with webpack and lazyloading `angular-router` sub modules in chunks and live reloading.
+This repo is a boilerplate for using angular with webpack and lazyloading `angular-router` sub modules in chunks and live reloading (Hot module replacement HMR). I use it both as a boiler plate and POC of new angular versions.
 
 ## Features:
-* Angular
+* Angular 2 / 4
 * Webpack
+* Hot module replacement
 * Typescript
 * Routing
 * Lazy loading route modules with `angular2-router-loader`
-* Build for production. Chunks for lazy loading in production.
+* Build task for production. Chunks for lazy loading modules in production POC.
 
 ## Changelog
+* 7 June 2017: Upgrade to angular 4.1.3 and minor tweaks
 * 24 March 2017: Upgrade to angular 4
 * 22 March 2017: Upgrade to angular 2.4
 * 24 November 2016: Initial commit, Angular 2.2
@@ -28,7 +30,7 @@ git clone https://github.com/amattias/angular-webpack-lazyloading-boilerplate.gi
 # Install dependencies
 npm install
 
-# Run for development
+# Run in development mode
 npm run dev
 # go to http://localhost:8080
 
