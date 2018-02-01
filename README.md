@@ -2,7 +2,7 @@
 This repo is a boilerplate for using angular with webpack and lazyloading `angular-router` sub modules in chunks (asynchronous routing) and live reloading. I use it both as a boiler plate and POC of new angular versions.
 
 ## Features:
-* Angular 5
+* Angular 2+ 
 * Webpack
 * Typescript
 * Routing
@@ -12,6 +12,7 @@ This repo is a boilerplate for using angular with webpack and lazyloading `angul
 * Build task for production. Minified and optimized chunks for lazy loading modules in production POC.
 
 ## Changelog
+* 1 February 2018: Upgraded to Angular 5.2.3
 * 19 January 2018: Upgraded to Angular 5.2.1
 * 16 January 2018: Upgraded to Angular 5.2.0
 * 29 November 2017: Upgraded to Angular 5.0.3
