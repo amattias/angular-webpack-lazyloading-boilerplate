@@ -12,6 +12,7 @@ This repo is a boilerplate for using angular with webpack and lazyloading `angul
 * Build task for production. Minified and optimized chunks for lazy loading modules in production POC.
 
 ## Changelog
+* 19 March 2018: Upgraded to Angular 5.2.9
 * 1 February 2018: Upgraded to Angular 5.2.3
 * 19 January 2018: Upgraded to Angular 5.2.1
 * 16 January 2018: Upgraded to Angular 5.2.0
